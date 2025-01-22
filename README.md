@@ -22,7 +22,7 @@
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/conn-finnegan-09a98124b/)
-- [Email](connfinneganbusiness@gmail.com)
+- [Email](connfinnegan@cerberusinfosec.uk)
 
 Feel free to check out my repositories and get in touch if you want to collaborate!
 
