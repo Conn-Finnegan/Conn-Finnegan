@@ -14,6 +14,8 @@
 
 ## Projects
 
+- [Cerberus Guard (WIP) ] - A vulnerability scanner powered by machine learning. Provides users with                                                                       actionable information to secure their digital selves.
+  
 - [Cerberus Engine](https://github.com/Conn-Finnegan/CerberusEngine) - A lightweight and portable game engine built in C++ with Cmake.
 
 
