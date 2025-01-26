@@ -2,7 +2,7 @@
 
 🎓 I am currently studying **Game Software Engineering** at Bournemouth University.
 
-💻 I am learning **Duckyscript** and have a keen interest in **cyber security**.
+💻 I am learning **Duckyscript** and have a keen interest in **Game Development**
 
 🔍 I am looking to collaborate on projects related to cyber security and game software engineering.
 
