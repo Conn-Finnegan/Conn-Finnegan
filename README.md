@@ -1,20 +1,19 @@
 # Hi there, I'm Conn Finnegan 👋
 
-🎓 I am currently studying **Game Software Engineering** at Bournemouth University.
+🎓 I am currently studying at **Bournemouth University**
 
-💻 I am learning **Duckyscript** and have a keen interest in **Game Development**
+💻 I am working on **Medical AI Applications**
 
-🔍 I am looking to collaborate on projects related to cyber security and game software engineering.
+🔍 I am looking to collaborate on projects related to medical or general AI projects
 
 
 ## Skills
 
 - **Programming Languages:** C++, C#, Python, Visual Basic
-- **Tools & Technologies:** VsCode, Visual Studio, Git, Github, CMake, OpenGL, Matlab, Unity, Unreal Engine 5
+- **Tools & Technologies:** VsCode, Visual Studio, Git, Github, CMake, OpenGL, Matlab, TensorFlow, Keras, Pytorch, Unity, Unreal Engine 5
 
 ## Projects
 
-- [Cerberus Guard (WIP) ] - A vulnerability scanner powered by machine learning. Provides users with                                                                       actionable information to secure their digital selves.
   
 - [Cerberus Engine](https://github.com/Conn-Finnegan/CerberusEngine) - A lightweight and portable game engine built in C++ with Cmake.
 
