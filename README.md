@@ -1,28 +1,43 @@
-# Hi there, I'm Conn Finnegan 👋
+# 👋 Hi, I'm Conn Finnegan
 
-🎓 I am currently studying at **Bournemouth University**
+🎓 AI Engineer | 🔬 Founder @ Cerberus Software  
+📍 Based in Northern Ireland | 🧠 Obsessed with intelligent, explainable systems
 
-💻 I am working on **Medical AI Applications**
+---
 
-🔍 I am looking to collaborate on projects related to medical or general AI projects
+## 🚀 What I Do
 
+I build AI tools that are lightweight, transparent, and production-ready — from core model development to full-stack deployment. My focus areas:
 
-## Skills
+- 🧠 **Computer Vision** – diagnostic tools for skin and breast cancer
+- 🔍 **RAG & LLMs** – building secure, domain-aware retrieval systems
+- ⚙️ **AI Infrastructure** – cloud deployment, API integration, Core ML/Edge
+- 🎮 **Game Engines** – low-level systems with C++/OpenGL
 
-- **Programming Languages:** C++, C#, Python, Visual Basic
-- **Tools & Technologies:** VsCode, Visual Studio, Git, Github, CMake, OpenGL, Matlab, TensorFlow, Keras, Pytorch, Unity, Unreal Engine 5
+---
 
-## Projects
+## 🧪 Flagship Projects
 
-  
-- [Cerberus Engine](https://github.com/Conn-Finnegan/CerberusEngine) - A lightweight and portable game engine built in C++ with Cmake.
+### 🔬 Soma – Skin Cancer Classifier  
+A ResNet-based tool for skin lesion classification (~89% accuracy), enhanced with Grad-CAM for transparency and deployed across web/mobile via Core ML.
 
+### 🧠 Lumen – Breast Cancer Detection  
+A real-time CNN system for classifying histopathology slides, optimised for clinical environments where speed, interpretability, and accuracy are critical.
 
-## Get in Touch
+---
 
-- [LinkedIn](https://www.linkedin.com/in/conn-finnegan-09a98124b/)
-- [Email] - connfinnegan@cerberusinfosec.uk
+## 🛠️ Languages & Tools
 
-Feel free to check out my repositories and get in touch if you want to collaborate!
+`Python` · `C++` · `C#` · `PyTorch` · `TensorFlow` · `Unity` · `.NET` · `OpenGL`  
+`Git` · `Core ML` · `Azure` · `RAG Pipelines` · `LLM Security` · `Grad-CAM`
 
+---
 
+## 📫 Get in Touch
+
+🔗 [LinkedIn](https://www.linkedin.com/in/conn-finnegan)  
+📧 connfinnegan@cerberusinfosec.uk  
+
+---
+
+> *Always building. Always learning. Always looking for what’s next.*
