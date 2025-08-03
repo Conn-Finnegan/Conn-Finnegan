@@ -1,83 +1,123 @@
-<!-- Liquid Black Cyber Banner -->
+<!-- MAIN BANNER -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Conn%20Finnegan&fontSize=46&fontAlignY=35&desc=Synthetic%20Intelligence%20Engineer&descAlignY=55&color=0b0b0b&fontColor=00e7ff&animation=fadeIn"
-    alt="Conn Finnegan Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Conn%20Finnegan&fontSize=42&fontAlignY=35&desc=Synthetic%20Intelligence%20Engineer&descAlignY=60&color=0a0a0a&fontColor=ffffff&animation=fadeIn" alt="Conn Finnegan — Synthetic Intelligence Engineer" />
 </p>
 
-### 🖤 About Me
-- Synthetic Intelligence Engineer focused on **Machine Learning**, **Robotics**, and **Transparent AI in Healthcare**  
-- Creator of **SOMA** – open-source AI for **skin cancer detection**  
-- Exploring **swarm robotics** inspired by insect behaviour  
-- 📍 Northern Ireland → exploring Bristol  
-
----
-
-### ⚙️ Tech Stack
-
-#### **Languages & Core Tools**
-![Python](https://img.shields.io/badge/Python-0b0b0b?style=flat&logo=python&logoColor=00e7ff&labelColor=0b0b0b)
-![C++](https://img.shields.io/badge/C++-0b0b0b?style=flat&logo=c%2B%2B&logoColor=00e7ff&labelColor=0b0b0b)
-![C#](https://img.shields.io/badge/C%23-0b0b0b?style=flat&logo=csharp&logoColor=00e7ff&labelColor=0b0b0b)
-![MATLAB](https://img.shields.io/badge/MATLAB-0b0b0b?style=flat&logo=Mathworks&logoColor=00e7ff&labelColor=0b0b0b)
-![OpenGL](https://img.shields.io/badge/OpenGL-0b0b0b?style=flat&logo=opengl&logoColor=00e7ff&labelColor=0b0b0b)
-![Git](https://img.shields.io/badge/Git-0b0b0b?style=flat&logo=git&logoColor=00e7ff&labelColor=0b0b0b)
-![Linux](https://img.shields.io/badge/Linux-0b0b0b?style=flat&logo=linux&logoColor=00e7ff&labelColor=0b0b0b)
-
-#### **AI / Machine Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-0b0b0b?style=flat&logo=pytorch&logoColor=00e7ff&labelColor=0b0b0b)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0b0b0b?style=flat&logo=tensorflow&logoColor=00e7ff&labelColor=0b0b0b)
-![Keras](https://img.shields.io/badge/Keras-0b0b0b?style=flat&logo=keras&logoColor=00e7ff&labelColor=0b0b0b)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0b0b0b?style=flat&logo=scikitlearn&logoColor=00e7ff&labelColor=0b0b0b)
-![ONNX](https://img.shields.io/badge/ONNX-0b0b0b?style=flat&logo=onnx&logoColor=00e7ff&labelColor=0b0b0b)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0b0b0b?style=flat&logo=huggingface&logoColor=00e7ff&labelColor=0b0b0b)
-![OpenCV](https://img.shields.io/badge/OpenCV-0b0b0b?style=flat&logo=opencv&logoColor=00e7ff&labelColor=0b0b0b)
-![NumPy](https://img.shields.io/badge/NumPy-0b0b0b?style=flat&logo=numpy&logoColor=00e7ff&labelColor=0b0b0b)
-![Pandas](https://img.shields.io/badge/Pandas-0b0b0b?style=flat&logo=pandas&logoColor=00e7ff&labelColor=0b0b0b)
-![FastAPI](https://img.shields.io/badge/FastAPI-0b0b0b?style=flat&logo=fastapi&logoColor=00e7ff&labelColor=0b0b0b)
-
-#### **Robotics**
-![ROS](https://img.shields.io/badge/ROS-0b0b0b?style=flat&logo=ros&logoColor=00e7ff&labelColor=0b0b0b)
-![Gazebo](https://img.shields.io/badge/Gazebo-0b0b0b?style=flat&logo=ros&logoColor=00e7ff&labelColor=0b0b0b)
-
-#### **Cloud / Deployment**
-![Docker](https://img.shields.io/badge/Docker-0b0b0b?style=flat&logo=docker&logoColor=00e7ff&labelColor=0b0b0b)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0b0b0b?style=flat&logo=kubernetes&logoColor=00e7ff&labelColor=0b0b0b)
-![AWS](https://img.shields.io/badge/AWS-0b0b0b?style=flat&logo=amazonaws&logoColor=00e7ff&labelColor=0b0b0b)
-![GCP](https://img.shields.io/badge/GCP-0b0b0b?style=flat&logo=googlecloud&logoColor=00e7ff&labelColor=0b0b0b)
-![Azure](https://img.shields.io/badge/Azure-0b0b0b?style=flat&logo=microsoftazure&logoColor=00e7ff&labelColor=0b0b0b)
-
----
-
-### 🔥 Featured Project
-
-**[SOMA](https://github.com/Conn-Finnegan/SOMA)**  
-Open-source AI for **skin cancer detection**, featuring explainable deep learning (Grad-CAM) for improved clinical trust and interpretability.  
-![Python](https://img.shields.io/badge/Python-0b0b0b?style=flat&logo=python&logoColor=00e7ff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0b0b0b?style=flat&logo=tensorflow&logoColor=00e7ff)
-![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-0b0b0b?style=flat&logo=ai&logoColor=00e7ff)
-
----
-
-### 📊 GitHub Analytics
+<!-- ABOUT ME -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=45&section=header&text=🖤%20About%20Me&fontColor=ffffff&fontSize=18" alt="About Me section" />
+</p>
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Conn-Finnegan&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00e7ff&text_color=b3b3b3&icon_color=00e7ff"
-       alt="Stats"/>
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Conn-Finnegan&layout=compact&hide_border=true&bg_color=00000000&title_color=00e7ff&text_color=b3b3b3"
-       alt="Top Languages"/>
+  <samp>
+    Synthetic Intelligence Engineer focused on <b>Machine Learning</b>, <b>Robotics</b>, and <b>transparent AI in healthcare</b>.<br>
+    Creator of <b>SOMA</b> – open-source AI for <b>skin cancer detection</b>.<br>
+    Exploring <b>swarm robotics</b> inspired by insect behaviour.<br>
+    📍 Northern Ireland → exploring Bristol.
+  </samp>
 </p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Conn-Finnegan&color=grey)
+<!-- TECH STACK -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=45&section=header&text=⚙️%20Tech%20Stack&fontColor=ffffff&fontSize=18" alt="Tech Stack section" />
+</p>
+
+<!-- LANGUAGES & CORE TOOLS -->
+<p align="center"><samp><b>Languages &amp; Core Tools</b></samp></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat&logo=python&logoColor=ffffff&labelColor=0a0a0a" alt="Python">
+  <img src="https://img.shields.io/badge/C++-0a0a0a?style=flat&logo=c%2B%2B&logoColor=ffffff&labelColor=0a0a0a" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-0a0a0a?style=flat&logo=csharp&logoColor=ffffff&labelColor=0a0a0a" alt="C#">
+  <img src="https://img.shields.io/badge/MATLAB-0a0a0a?style=flat&logo=mathworks&logoColor=ffffff&labelColor=0a0a0a" alt="MATLAB">
+  <img src="https://img.shields.io/badge/OpenGL-0a0a0a?style=flat&logo=opengl&logoColor=ffffff&labelColor=0a0a0a" alt="OpenGL">
+  <img src="https://img.shields.io/badge/Git-0a0a0a?style=flat&logo=git&logoColor=ffffff&labelColor=0a0a0a" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-0a0a0a?style=flat&logo=linux&logoColor=ffffff&labelColor=0a0a0a" alt="Linux">
+</p>
+
+<!-- AI / MACHINE LEARNING -->
+<p align="center"><samp><b>AI / Machine Learning</b></samp></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-0a0a0a?style=flat&logo=pytorch&logoColor=ffffff&labelColor=0a0a0a" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat&logo=tensorflow&logoColor=ffffff&labelColor=0a0a0a" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-0a0a0a?style=flat&logo=keras&logoColor=ffffff&labelColor=0a0a0a" alt="Keras">
+  <img src="https://img.shields.io/badge/Scikit--learn-0a0a0a?style=flat&logo=scikitlearn&logoColor=ffffff&labelColor=0a0a0a" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/ONNX-0a0a0a?style=flat&logo=onnx&logoColor=ffffff&labelColor=0a0a0a" alt="ONNX">
+  <img src="https://img.shields.io/badge/Hugging%20Face-0a0a0a?style=flat&logo=huggingface&logoColor=ffffff&labelColor=0a0a0a" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/OpenCV-0a0a0a?style=flat&logo=opencv&logoColor=ffffff&labelColor=0a0a0a" alt="OpenCV">
+  <img src="https://img.shields.io/badge/NumPy-0a0a0a?style=flat&logo=numpy&logoColor=ffffff&labelColor=0a0a0a" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-0a0a0a?style=flat&logo=pandas&logoColor=ffffff&labelColor=0a0a0a" alt="Pandas">
+  <img src="https://img.shields.io/badge/FastAPI-0a0a0a?style=flat&logo=fastapi&logoColor=ffffff&labelColor=0a0a0a" alt="FastAPI">
+</p>
+
+<!-- ROBOTICS -->
+<p align="center"><samp><b>Robotics</b></samp></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS-0a0a0a?style=flat&logo=ros&logoColor=ffffff&labelColor=0a0a0a" alt="ROS">
+  <img src="https://img.shields.io/badge/Gazebo-0a0a0a?style=flat&logo=ros&logoColor=ffffff&labelColor=0a0a0a" alt="Gazebo">
+</p>
+
+<!-- CLOUD / DEPLOYMENT -->
+<p align="center"><samp><b>Cloud / Deployment</b></samp></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat&logo=docker&logoColor=ffffff&labelColor=0a0a0a" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-0a0a0a?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=0a0a0a" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/AWS-0a0a0a?style=flat&logo=amazonaws&logoColor=ffffff&labelColor=0a0a0a" alt="AWS">
+  <img src="https://img.shields.io/badge/GCP-0a0a0a?style=flat&logo=googlecloud&logoColor=ffffff&labelColor=0a0a0a" alt="GCP">
+  <img src="https://img.shields.io/badge/Azure-0a0a0a?style=flat&logo=microsoftazure&logoColor=ffffff&labelColor=0a0a0a" alt="Azure">
+</p>
+
+---
+
+<!-- FEATURED PROJECT -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=45&section=header&text=🔥%20Featured%20Project&fontColor=ffffff&fontSize=18" alt="Featured Project section" />
+</p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0b0b0b&fontColor=00e7ff"
-    alt="Footer"
-  />
+  <samp>
+    <b><a href="https://github.com/Conn-Finnegan/SOMA">SOMA</a></b><br>
+    Open‑source AI for <b>skin cancer detection</b>, featuring explainable deep learning (Grad‑CAM) for improved clinical trust and interpretability.
+  </samp><br>
+  <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat&logo=python&logoColor=ffffff&labelColor=0a0a0a" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat&logo=tensorflow&logoColor=ffffff&labelColor=0a0a0a" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Healthcare%20AI-0a0a0a?style=flat&logo=square&logoColor=ffffff&labelColor=0a0a0a" alt="Healthcare AI">
+</p>
+
+---
+
+<!-- ANALYTICS -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=45&section=header&text=📊%20GitHub%20Analytics&fontColor=ffffff&fontSize=18" alt="GitHub Analytics section" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Conn-Finnegan&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=b3b3b3&icon_color=cccccc&cache_seconds=7200" alt="GitHub Stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Conn-Finnegan&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=b3b3b3&cache_seconds=7200" alt="Top Languages">
+</p>
+
+---
+
+<!-- CONTACT -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=45&section=header&text=📬%20Contact&fontColor=ffffff&fontSize=18" alt="Contact section" />
+</p>
+
+<p align="center">
+  <a href="mailto:c.f.engineer@proton.me">
+    <img src="https://img.shields.io/badge/Email-0a0a0a?style=flat&logo=gmail&logoColor=ffffff&labelColor=0a0a0a" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/conn-finnegan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat&logo=linkedin&logoColor=ffffff&labelColor=0a0a0a" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Conn-Finnegan">
+    <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat&logo=github&logoColor=ffffff&labelColor=0a0a0a" alt="GitHub">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0a0a0a&fontColor=ffffff" alt="Footer wave" />
 </p>
