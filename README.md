@@ -77,7 +77,7 @@
 
 <p align="center">
   <samp>
-    <b><a href="https://github.com/Conn-Finnegan/SOMA">SOMA</a></b><br>
+    <b><a href="https://github.com/Conn-Finnegan/Soma_Skin_Cancer">SOMA</a></b><br>
     Open‑source AI for <b>skin cancer detection</b>, featuring explainable deep learning (Grad‑CAM) for improved clinical trust and interpretability.
   </samp><br>
   <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat&logo=python&logoColor=ffffff&labelColor=0a0a0a" alt="Python">
